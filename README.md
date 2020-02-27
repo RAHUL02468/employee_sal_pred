@@ -1,1 +1,2 @@
-# employee_sal_pred
+# Empolye-salary-prediction
+empolye salary prediction
